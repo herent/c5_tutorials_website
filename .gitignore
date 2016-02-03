@@ -17,6 +17,10 @@ composer.phar
 /application/files/*
 !/application/files/index.html
 
+# ignore the packages directory
+/packages
+/packages/*
+
 # ignore updates folder
 /updates/*
 
