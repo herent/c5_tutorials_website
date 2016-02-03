@@ -20,6 +20,7 @@ composer.phar
 # ignore the packages directory
 /packages
 /packages/*
+!/packages/.gitsave
 
 # ignore updates folder
 /updates/*
